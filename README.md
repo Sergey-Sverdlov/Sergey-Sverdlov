@@ -10,7 +10,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=Sergey-Sverdlov&style=flat-square&color=blue" alt="Counter Visitoes"/>
   <h1>
-  hey there
+  Добро пожаловать на мою страницу!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
