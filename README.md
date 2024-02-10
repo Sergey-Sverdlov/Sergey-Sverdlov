@@ -12,7 +12,7 @@
   <h1>
   Добро пожаловать на мою страницу! Рад знакомству!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    <h3>Детальная информация на моем веб-сайте <a href = 'https://sergey-sverdlov.github.io/interactiveResume/' target = _blank> Sergei_Sverdlov.com </a></h3>
+    <h3>Детальная информация на моем веб-сайте <a href = 'https://sergey-sverdlov.github.io/interactiveResume/' target = "_blank"> Sergei_Sverdlov.com </a></h3>
 </h1>
 </div>
 
