@@ -24,7 +24,7 @@ Frontend разработчик <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: Выпускник МГТУ им. Баумана по направлению Программная инженерия. В свободное время катаюсь на лыжах и думаю о решении задач на CodeWars
 
-- :mailbox:  Всегда на связи @serega_sverdlov: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://vk.com/serega_sverdlov)
+- :mailbox:  Всегда на связи @serega_sverdlov: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/serega_sverdlov)
 
 ### :hammer_and_wrench: Стек технологий:
 <div>
