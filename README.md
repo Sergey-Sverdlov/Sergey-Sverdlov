@@ -18,6 +18,7 @@
 
 ### :man_technologist: Обо мне :
 React Native Developer в компании Ecoplatform!
+
 Frontend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Москвы.
 - :telescope: Увлекаюсь WEB3 технологиями. Множество реализованных собственных и командных проектов.
 
